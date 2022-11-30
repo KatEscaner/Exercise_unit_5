@@ -1,0 +1,15 @@
+//Step 5
+
+"pepe" >> .\example.txt
+git add .\example.txt
+git commit -m "Commit for step 5"
+git branch -M main
+git push -u origin main
+
+//Step 6
+
+"text" >> newFile.txt
+git add .\newFile.txt
+git commit -m "Commit for step 6"
+git branch -M main
+git push -u origin main
